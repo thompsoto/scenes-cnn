@@ -1,4 +1,4 @@
-# Scenes - a deep learning model
+# Scenes - a Deep Machine Learning Model
 ## Overview
 This repository contains a model built using a convolutional neural network (specifically a LeNet-5 architecture) that detects scenes within images. Through this project, I gained familiarity with the PyTorch ML library, computer vision, and deep learning through a convolutional neural network architecture.
 
