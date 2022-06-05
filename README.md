@@ -5,7 +5,7 @@ This repository contains a model built using a convolutional neural network (spe
 ## Dataset
 The dataset utilized is MiniPlaces, a scene recognition dataset developed by MIT. More information on the dataset can be found [here](https://github.com/CSAILVision/miniplaces).
 
-<img src="miniplaces.png" width="200" height="100">
+<img src="miniplaces.jpg" width="200" height="100">
 
 ## Author
 Project developed for **CS 540: Intro to AI** by **Matthew Thompson Soto**. April 2022. 
