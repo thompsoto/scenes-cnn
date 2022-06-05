@@ -9,5 +9,8 @@ The dataset utilized is MiniPlaces, a scene recognition dataset developed by MIT
 
 <div align="center"><img src="miniplaces.jpg" width="400"></div>
 
+## Results
+I trained the model under different configurations in order to find what optimal settings produced the most accurate results with least amount of work, in hopes of avoiding under/overfitting. The changed variables were batch size, learning rate, and number of epochs influenced. I found the most optimal training method was utilizing a batch size of 8, a default learning rate of 0.01.
+
 ## Author
 Project developed for **CS 540: Intro to AI** by **Matthew Thompson Soto**. April 2022. 
